@@ -1,6 +1,6 @@
 # Movie Cards Library
 
-<img src="public/images/movie-cards-preview.png" alt="Movie Cards Preview" width="600"/>
+<img src="public/images/movie-cards-preview-min.png" alt="Movie Cards Preview" width="600"/>
 <br />
 <br />
 
