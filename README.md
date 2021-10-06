@@ -2,11 +2,10 @@
 
 <img src="public/images/movie-cards-preview-min.png" alt="Movie Cards Preview" width="600"/>
 <br />
-<br />
 
-### This was the first project from Trybe's Front-end module.
+This was the first project from Trybe's Front-end module.
 
-### The goal was to create a Movie Cards Library with React, using concepts that included Props, Components, JSX and PropTypes.
+The goal was to create a Movie Cards Library with React, using concepts that included Props, Components, JSX and PropTypes.
 <br />
 
 ## - Requirements:
